@@ -1,0 +1,38 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2",
+      "name": "Jochem Sticker Pack",
+      "publisher": "Sepi",
+      "tray_image_file": "tray_jochem.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "jochem_dcld.webp",
+          "emojis": ["🤪","🤪"]
+        },
+        {
+          "image_file": "jochem_hic.webp",
+          "emojis": ["😂","😂"]
+        },
+        {
+          "image_file": "jochem_oei.webp",
+          "emojis": ["😣","😣"]
+        },
+        {
+          "image_file": "jochem_omg.webp",
+          "emojis": ["😫","😫"]
+        },
+        {
+          "image_file": "jochem_smile.webp",
+          "emojis": ["😀","😀"]
+        }
+      ]
+    }
+  ]
+}
